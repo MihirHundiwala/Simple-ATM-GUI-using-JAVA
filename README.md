@@ -1,4 +1,4 @@
-# Simple-ATM-GUI-using-JAVA
+# Simple-ATM-Interface-using-JAVA
 This project has been made for learning purpose.
 
 To open the gui, open command prompt in ./src/ directory.
